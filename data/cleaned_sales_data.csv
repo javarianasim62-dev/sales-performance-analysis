@@ -1,0 +1,5 @@
+OrderDate,Product,Region,Sales,Profit,Month
+2024-01-05,Laptop,West,1200,200,2024-01
+2024-01-08,Phone,East,800,120,2024-01
+2024-02-12,Tablet,South,500,90,2024-02
+2024-02-20,Monitor,North,300,60,2024-02
